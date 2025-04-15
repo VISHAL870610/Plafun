@@ -4,7 +4,7 @@ This repository contains the UI/UX design for the Plafun event management app, c
 
 ## Figma Prototype
 
-👉 [View the Live Figma Design](https://www.figma.com/proto/0yjkYlT6LOm2cIIa3Ur74q/Plafun?page-id=0%3A1&node-id=357-542&p=f&viewport=307%2C476%2C0.06&t=l0HUSXpdhnYyf2wI-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A3&show-proto-sidebar=1)
+👉 [View the Live Figma Design](https://www.figma.com/proto/0yjkYlT6LOm2cIIa3Ur74q/Plafun?page-id=0%3A1&node-id=1-3&p=f&viewport=391%2C665%2C0.13&t=SCYuAxXfetVz1p8T-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A3&show-proto-sidebar=1)
 
 ## Description
 
