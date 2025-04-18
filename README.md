@@ -4,7 +4,7 @@ This repository showcases the UI/UX design for **Plafun**, an all-in-one event m
 
 ## Live Prototype
 
-👉 [**View the Live Figma Design**](https://www.figma.com/design/0yjkYlT6LOm2cIIa3Ur74q/Plafun?node-id=0-1&t=qX0V7ZgOgCPhI2Md-1)
+👉 [**View the Live Figma Design**](https://www.figma.com/proto/0yjkYlT6LOm2cIIa3Ur74q/Plafun?page-id=0%3A1&node-id=1-3&p=f&viewport=391%2C665%2C0.13&t=Viy1AjXhyfxRNl16-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A3&show-proto-sidebar=1)
 
 ## Project Overview
 
